@@ -1,0 +1,16 @@
+<svg id="Group_23" data-name="Group 23" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.237" height="37" viewBox="0 0 194.237 37">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="194.237" height="37" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_22" data-name="Group 22" clip-path="url(#clip-path)">
+    <text id="FOREIGN_TRADE" data-name="FOREIGN TRADE" transform="translate(131.902 30.461)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">FOREIGN TRADE</tspan></text>
+    <path id="Path_13" data-name="Path 13" d="M321.89,15.313l6.546,6.605h-6.282l-5.284-5.8h-8.03v-4h9.093c2.389,0,3.6-1.279,3.6-3.8,0-2.408-1.211-3.629-3.6-3.629H306.953V21.919h-4.4V.258h15.382c4.918,0,7.973,3.066,7.973,8,0,3.3-1.455,5.832-4.016,7.054M333.4,4.688h15.02V.258H329V21.919h19.45V17.488H333.4Zm14.244,4.3H335.289v3.856h12.357ZM365.863.258H350.8V21.919h4.4V4.688h10.665c2.308,0,3.686,1.325,3.686,3.543a3.368,3.368,0,0,1-3.686,3.571h-8.778v4.315h8.778c4.878,0,8.03-3.141,8.03-8S370.816.258,365.863.258m34.007,0h-6.913L381.794,8.839a2.275,2.275,0,0,0-1.071,1.976,2.079,2.079,0,0,0,.9,1.83l11.688,9.19.106.084h6.872L385.672,10.846ZM375.694,21.919h4.43V.258h-4.43ZM423.2,10.873c0,6.3-4.564,11.046-10.615,11.046H407.5c-6,0-10.529-4.749-10.529-11.046,0-6.25,4.33-10.615,10.529-10.615h5.083A10.156,10.156,0,0,1,423.2,10.873m-4.43.172a6,6,0,0,0-6.185-6.357H407.5a6.027,6.027,0,0,0-6.1,6.357c0,3.734,2.565,6.443,6.1,6.443h5.083a6.111,6.111,0,0,0,6.185-6.443M443.439.085V14.814L429.375.86A2.454,2.454,0,0,0,427.548,0a2.277,2.277,0,0,0-2.258,2.574V21.919h4.258V7.2l14.006,14.089a2.684,2.684,0,0,0,1.942.89,2.279,2.279,0,0,0,2.2-2.574V.085Z" transform="translate(-253.987 0.001)" fill="#fff"/>
+    <path id="Path_14" data-name="Path 14" d="M83.3,25.882c4.129-1.969,6.475-6.06,6.475-11.372,0-7.957-4.925-12.9-12.854-12.9H62.115V8.752H76.924c3.851,0,5.8,1.968,5.8,5.85,0,4.066-1.953,6.128-5.8,6.128H62.264v6.448H75.21l8.519,9.352H93.855Z" transform="translate(-52.145 -1.352)" fill="#fff"/>
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="7.915" height="7.915" transform="translate(9.996 7.407)" fill="#f4b223"/>
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="7.915" height="7.915" transform="translate(0 7.407)" fill="#f4b223"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="7.915" height="7.915" transform="translate(0 17.719)" fill="#f4b223"/>
+    <path id="Path_15" data-name="Path 15" d="M87.36,129.67,70.567,112.876l2.487-2.487H62.115v10.939l2.487-2.487L75.431,129.67Z" transform="translate(-52.144 -92.67)" fill="#f4b223"/>
+  </g>
+</svg>
